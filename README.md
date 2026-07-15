@@ -109,11 +109,11 @@ More languages are coming soon.
 
 | Home | Player | Lyrics |
 |------|--------|---------|
-| ![](screenshots/home.png) | ![](screenshots/player.png) | ![](screenshots/lyrics.png) |
+| ![](screenshots/home.jpg) | ![](screenshots/player.jpg) | ![](screenshots/lyrics.jpg) |
 
 | Equalizer | Moods | Settings |
 |-----------|--------|----------|
-| ![](screenshots/equalizer.png) | ![](screenshots/moods.png) | ![](screenshots/settings.png) |
+| ![](screenshots/equalizer.jpg) | ![](screenshots/moods.jpg) | ![](screenshots/settings.jpg) |
 
 ---
 
