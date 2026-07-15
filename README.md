@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-A modern, beautifully designed offline music player for Android with powerful customization, advanced audio features, and an exceptional user experience.
+A modern, beautifully designed offline music player for Android with powerful customization, advanced audio features, and an exceptional user experience. Currently available on:
 </p>
 
 <p align="center">
