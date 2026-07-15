@@ -10,10 +10,10 @@ A modern, beautifully designed offline music player for Android with powerful cu
 
 <p align="center">
   <a href="https://cafebazaar.ir/app/com.abolfazl.anathema">
-    <img src="https://img.shields.io/badge/Download-Caf%C3%A9%20Bazaar-53B748?style=for-the-badge">
+    <img src="images/bazaar-get.png" width="150">
   </a>
   <a href="https://myket.ir/app/com.abolfazl.anathema">
-    <img src="https://img.shields.io/badge/Download-Myket-00AEEF?style=for-the-badge">
+    <img src="images/myket-get.png" width="150">
   </a>
 </p>
 
