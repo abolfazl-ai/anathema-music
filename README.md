@@ -1,4 +1,4 @@
-# Anathema Music Player
+# Anathema
 
 <p align="center">
   <img src="images/cover.png" alt="Anathema Music Player Cover">
@@ -19,19 +19,7 @@ A modern, beautifully designed offline music player for Android with powerful cu
 
 ---
 
-## ✨ About
-
-Anathema is a modern offline music player built for people who care about both beautiful design and powerful functionality.
-
-Instead of overwhelming users with complicated menus, Anathema focuses on an intuitive experience while providing advanced features that make managing and enjoying your music effortless.
-
-Everything is designed with attention to detail—from smooth animations and elegant layouts to professional audio controls and extensive personalization options.
-
----
-
-## 📱 Features
-
-### 🎨 Beautiful & Highly Customizable UI
+### 🎨 Beautiful & Customizable UI
 
 - Modern Material Design interface
 - Fully optimized Dark Mode
@@ -99,7 +87,7 @@ Anathema keeps track of your listening habits and automatically generates:
 Currently supported:
 
 - English
-- فارسی (Persian)
+- Persian
 
 More languages are coming soon.
 
