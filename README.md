@@ -1,11 +1,17 @@
 # Anathema
 
+## A beautiful offline music player for Android
+
 <p align="center">
   <img src="images/cover.png" alt="Anathema Music Player Cover">
 </p>
 
 <p align="center">
-A modern, beautifully designed offline music player for Android with powerful customization, advanced audio features, and an exceptional user experience. Currently available on:
+Anathema is a modern offline music player for Android that combines elegant Material Design, powerful audio tools, extensive customization, and a fast, intuitive experience. Built for people who love local music libraries, Anathema focuses on beauty, flexibility, and seamless everyday listening.
+</p>
+
+<p align="center">
+Available on:
 </p>
 
 <p align="center">
@@ -17,81 +23,77 @@ A modern, beautifully designed offline music player for Android with powerful cu
   </a>
 </p>
 
----
+## ✨ Features
 
-### 🎨 Beautiful & Customizable UI
+Anathema is designed to provide a complete offline music experience, combining beautiful visuals, powerful audio controls, and smart tools that help you enjoy and organize your music exactly the way you want.
 
-- Modern Material Design interface
+### 🎨 Beautiful & Customizable Interface
+
+Personalize Anathema to match your style.
+
+- Modern Material Design 3 interface
 - Fully optimized Dark Mode
 - Dynamic accent colors
 - Custom fonts
-- Multiple player styles
-- Personalize almost every visual element
-
----
+- Multiple player layouts
+- Extensive UI customization
 
 ### 🎵 Smart Music Organization
 
-Organize your music beyond traditional playlists.
+Go beyond traditional playlists.
 
-Anathema introduces **Moods**, allowing you to assign one or multiple color-coded labels to every song for quick filtering and discovery.
+With **Moods**, you can assign one or multiple color-coded labels to every song, making it easy to organize, filter, and rediscover your music library.
 
----
+### 🎤 Synchronized Lyrics
 
-### 🎤 Auto-Synced Lyrics
+Enjoy lyrics that stay perfectly in sync with your music.
 
-- One-click lyric search
+- One-tap lyric search
 - Line-by-line synchronized lyrics
-- Fast lyric loading
+- Fast online lyric loading
 
-*Multi-language lyric translation is currently in development.*
-
----
+> Multi-language lyric translation is currently in development.
 
 ### ✏️ Metadata Editor
 
-Edit your music library directly inside the app. Automatic metadata recognition and online matching are planned for future releases.
+Edit your music library directly inside the app.
 
----
+Future updates will introduce automatic metadata recognition and online matching.
 
 ### 🎚 Professional Equalizer
+
+Fine-tune your listening experience.
 
 - 10-band Equalizer
 - Bass Boost
 - Genre presets
-- Create unlimited custom presets
+- Unlimited custom presets
 
----
+### ⏱ Playback Features
 
-### ⏱ Playback Controls
+Everything you need for comfortable listening.
 
 - Playback speed adjustment
 - Sleep timer
 - Smooth queue management
 
----
+### 📊 Listening Statistics
 
-### 📊 Smart Statistics
-
-Anathema keeps track of your listening habits and automatically generates:
+Track your listening habits with automatically generated insights.
 
 - Top Songs
 - Top Artists
 - Listening History
-- Personalized recommendations from your local library
-
----
+- Personalized recommendations based on your local library
 
 ### 🌍 Languages
 
-Currently supported:
+Currently available in:
 
 - English
-- Persian
+- Persian (فارسی)
 
-More languages are coming soon.
-
----
+More languages are planned.
 
 ## 🖼 Screenshots
 
@@ -103,47 +105,38 @@ More languages are coming soon.
 |-----------|--------|----------|
 | <img src="screenshots/equalizer.jpg" width="220"> | <img src="screenshots/moods.jpg" width="220"> | <img src="screenshots/settings.jpg" width="220"> |
 
----
+## 🚀 Roadmap
 
-## 🛣 Roadmap
-
-Upcoming features include:
+Planned features include:
 
 - AI-powered metadata recognition
 - Multi-language lyric translation
-- More themes and player layouts
-- Additional Mood customization
+- Additional themes and player layouts
 - Cloud backup & restore
 - More personalization options
 
----
-
 ## 💬 Feedback
 
-Found a bug or have a feature request?
+Found a bug or have an idea for a new feature?
 
 Please open an Issue on GitHub.
 
-Your feedback helps improve Anathema.
-
----
+Your feedback helps make Anathema better for everyone.
 
 ## ❤️ Support
 
-If you enjoy using Anathema, consider:
+If you enjoy using Anathema, you can support the project by:
 
 - ⭐ Starring this repository
-- Sharing the app with friends
-- Leaving a review on the store
+- 📢 Sharing the app with friends
+- 📝 Leaving a review on the app store
 
-Every bit of support helps the project grow.
-
----
+Every bit of support helps Anathema continue to improve.
 
 ## 📄 License
 
-This repository contains the public homepage and issue tracker for Anathema Music Player.
+This repository serves as the official homepage and public issue tracker for Anathema.
 
-All rights reserved.
+The Anathema application is proprietary software.
 
-The application itself is proprietary software.
+**All rights reserved.**
